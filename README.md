@@ -1,6 +1,6 @@
 # MIPS  <br />
 
-# SUM of sets MIPS
+SUM of sets MIPS <br />
 Calculate the sum of m data sets. Each data set contains n integer numbers <br/>
 In the following example there are 3 data sets, each having 10 elements:<br/>
 1. Data set 1 2 5 8 11 15 19 23 27 30 33 173<br/>
